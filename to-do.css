@@ -1,0 +1,21 @@
+/* .ali{
+    border: 10px coral solid;
+    width: 1000px;
+    color: chartreuse;
+} */
+
+#inMsg{
+    border-radius: 100px;
+    padding-left: 18px ;
+    border: ;
+    }
+
+.change{
+    text-align: center;
+    color: teal;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    text-align: center;
+}
